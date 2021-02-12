@@ -9,7 +9,7 @@
   
 ## Kullanabilmek için [Linux & Windows]:
      
-      - `npm install melka.db` veya `npm i melka.db` [şu anlıkla indirmeler kapalı.]
+      - npm install melka.db veya npm i melka.db [şu anlıkla indirmeler kapalı.]
       
 ## Kullanabilmek için [macOS]:
 
