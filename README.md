@@ -7,10 +7,10 @@
   **[discord](https://discord.gg/ghostcode)**
   **[site](https://ghostbotcode.glitch.me)** [tam sürüm site yakında!]
   
-##Kullanabilmek için [Linux & Windows]:
+## Kullanabilmek için [Linux & Windows]:
      
       - `npm install melka.db` veya `npm i melka.db` [şu anlıkla indirmeler kapalı.]
       
-##Kullanabilmek için [macOS]:
+## Kullanabilmek için [macOS]:
 
       - yakında yapılacaktır. 
