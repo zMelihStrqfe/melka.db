@@ -1,0 +1,33 @@
+{
+    "name": "melka.db",
+    "version": "1.0.0",
+    "description": "Kurulumu ve kullanımı kolay olacak şekilde tasarlanmış, kolay, kilitlenmeyen, kalıcı, daha iyi bir sqlite3 sarıcı.",
+    "main": "index.js",
+    "dependencies": {
+        "better-sqlite3": "^7.1.1",
+        "lodash": "^4.17.20"
+    },
+    "scripts": {
+        "test": "node spec/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zMelihStrqfe/melka.db.git"
+    },
+    "keywords": [
+        "database",
+		"veri tabanı",
+        "storing",
+        "values",
+        "easy",
+        "melka",
+        "sqlite",
+        "sqlite3",
+        "db"
+    ],
+    "author": "zMelihStrqfe",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zMelihStrqfe/melka.db/issues"
+    }
+}
